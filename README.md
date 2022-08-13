@@ -1,5 +1,4 @@
-# icon-pack
-# Ionicons React Component
+# Icon Pack Component
 
 This package contains a React Component, which implements the latest version of the official [icon-pack](https://github.com/hackxtar/icon-pack) into React or any other node laibrary.
 
