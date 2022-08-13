@@ -1,4 +1,17 @@
 {
+  "homepage": "https://github.com/hackxtar/icon-pack#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hackxtar/icon-pack.git"
+  },
+  "bugs": {
+    "url": "git+https://github.com/hackxtar/icon-pack/issues"
+  },
+  "keywords": [
+    "icons",
+    "svg",
+    "react"
+  ],
   "name": "icon-pack",
   "version": "1.0.0",
   "description": "",
